@@ -1,0 +1,1 @@
+import{e as s,j as n,B as a}from"./index-Dkk_fvam.js";function r(){const e=s(),t=()=>{e("/menus/menu2/menu2-1/info")};return n.jsxs(n.Fragment,{children:[n.jsx("div",{children:'"嵌套路由2-1"'}),n.jsx(a,{type:"primary",onClick:t,children:"自定义面包屑"})]})}export{r as default};
